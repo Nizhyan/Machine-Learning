@@ -1,2 +1,5 @@
 # Machine-Learning House Price Prediction
-machine learning project from kaggle's introduction to machine learning course
+
+machine learning project using python to predict house prices
+libraries used: pandas and sklearn
+beginner friendly project
